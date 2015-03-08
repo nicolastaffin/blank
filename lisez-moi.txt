@@ -1,0 +1,32 @@
+/*        < blank >       */
+/*     Nicolas Taffin     */
+/*  http://polylogue.com  */
+/*  licence CC: BY-NC-SA  */
+
+
+Merci de lire la licence.
+Blank est fourni sans support ni garantie.
+V4 
+
+La documentation est ici :
+documentation/documentation.md
+documentation/documentation.php
+documentation/documentation.pdf
+
+La page démo complète la documentation par l'exemple:
+/DEMO.html
+
+Un template simple pour commencer en xhtml :
+/startXHTML.html
++ /themes/grayTheme/main.css
+
+Un template simple pour commencer en html5 :
+/startHTML5.html
++ /themes/grayTheme/main.css
+
+Pour commencer en php :
+un template :
+/startPHP.php
+
++ /config/config.php
++ /themes/grayTheme/main.css
